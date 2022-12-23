@@ -2,7 +2,7 @@
   "name": "swagger-ui-restify",
   "version": "4.0.2",
   "description": "Swagger UI Restify",
-  "main": "./lib/index.js",
+  "main": "./index.js",
   "files": [
     "package.json",
     "index.js",
